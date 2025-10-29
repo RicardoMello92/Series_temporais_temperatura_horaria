@@ -43,7 +43,7 @@ Os modelos apresentaram os seguintes resultados no conjunto de validação:
 | **Inception Time Plus (Forecasting)**| **0.59** |
 | Prophet | 7.18 |
 
-**IMAGEM DO COMPARATIVO TSAI**
+![Comparativo gráfico](https://github.com/RicardoMello92/Series_temporais_temperatura_horaria/blob/539e935577d511c0eda7d075a90a0998e131ce97/imagens/gr%C3%A1ficos.png)
 
 *Obs: Os modelos da TSAI (InceptionTimePlus e TSTPlus) utilizaram *callbacks* de `EarlyStoppingCallback` e `SaveModelCallback` para otimizar o treinamento e salvar o melhor resultado.*
 
